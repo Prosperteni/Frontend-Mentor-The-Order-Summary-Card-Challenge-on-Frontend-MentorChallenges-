@@ -37,7 +37,7 @@ To enhance interactivity and provide feedback for users we apply hover effects t
 
 ### Screenshot
 
-![](./screenshots.jpeg)
+![](images/Screenshot.jpeg)
 
 ### Links
 
