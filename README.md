@@ -37,7 +37,7 @@ To enhance interactivity and provide feedback for users we apply hover effects t
 
 ### Screenshot
 
-![](https://github.com/Prosperteni/Frontend-Mentor-Challenges-/blob/ecbba8d081f61c770d19ec8af99ff1febf8c6230/Screenshot.jpeg?raw=true))
+![]([https://github.com/Prosperteni/Frontend-Mentor-Challenges-/blob/ecbba8d081f61c770d19ec8af99ff1febf8c6230/Screenshot.jpeg?raw=true](https://github.com/Prosperteni/Frontend-Mentor-The-Order-Summary-Card-Challenge-on-Frontend-MentorChallenges-/blob/master/images/Screenshot.jpeg?raw=true)))
 
 ### Links
 
