@@ -37,7 +37,7 @@ To enhance interactivity and provide feedback for users we apply hover effects t
 
 ### Screenshot
 
-![](https://github.com/Prosperteni/Frontend-Mentor-Challenges-/blob/ecbba8d081f61c770d19ec8af99ff1febf8c6230/Screenshot.jpeg?raw=true)
+![](https://github.com/Prosperteni/Frontend-Mentor-Challenges-/blob/ecbba8d081f61c770d19ec8af99ff1febf8c6230/Screenshot.jpeg?raw=true))
 
 ### Links
 
@@ -86,5 +86,3 @@ I Learnt how to get alternative to images when the images are not available.
 
 - Website - [Prosper Ughakpoteni]
 - Frontend Mentor - [@Prosperteni](https://www.frontendmentor.io/profile/Prosperteni)
-
-
